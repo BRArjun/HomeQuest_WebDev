@@ -1,2 +1,2 @@
 # Web_Dev_Project
-A Real Estate Website written using NextJS and 
+A Real Estate Website written using NextJS

@@ -48,5 +48,6 @@ To set up the HomeQuest project on your local machine, follow these steps:
 
 
 PS:
-Take a look at the deployed website using this [link](https://home-quest-frontend-one.vercel.app/dashboard).  
+Take a look at the deployed website using this [link](https://home-quest-frontend-one.vercel.app/dashboard).
+Also please pull all the required files from these repositories:[Repo 1](https://github.com/bcsamrudh/HomeQuest-backend) and [Repo 2](https://github.com/bcsamrudh/HomeQuest-frontend).
 
